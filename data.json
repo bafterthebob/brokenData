@@ -51,14 +51,14 @@
                 "exercises":[
                     {
                         "id": 0,
-                        "name": "Lat Pulldown",
+                        "name": "Weighted Pullup",
                         "reps": 6,
                         "sets": 3,
                         "setType": "Normal"
                     },
                     {
                         "id": 1,
-                        "name": "Chest Supported Row",
+                        "name": "One Arm Row",
                         "reps": 6,
                         "sets": 3,
                         "setType": "Normal"
@@ -99,7 +99,7 @@
                     },
                     {
                         "id": 1,
-                        "name": "Tri Lateral Raise",
+                        "name": "Cable Lateral Raise",
                         "reps": 12,
                         "sets": 3,
                         "setType": "Normal"
