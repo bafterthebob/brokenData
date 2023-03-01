@@ -1,391 +1,520 @@
 
-   [{
-        "id": 0,
-        "name": "Broken PPL",
-        "workouts":[
-            {
-                "id": 0,
-                "name": "Push",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Bench Press",
-                        "reps": 6,
-                        "sets": 5,
-                        "setType": "Drop"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Incline DB Press",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Cable Fly",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Tricep Rope Pushdown",
-                        "reps": 12,
-                        "sets": 5,
-                        "setType": "Drop"
-                    },
-                    {
-                        "id": 4,
-                        "name": "DB Skullcrusher",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                ]
-            },
-            
-            {
-                "id": 1,
-                "name": "Pull",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Weighted Pullup",
-                        "reps": 6,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "One Arm Cable Row",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Cable Pull Through",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Drop"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Incline Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "EZ Bar Cable Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Drop"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Shoulders & Legs",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Military Press",
-                        "reps": 6,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Cable Lateral Raise",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Bulgarian Split Squat",
-                        "reps": 6,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Leg Extension",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Drop"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Romanian Deadlift",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Seated Leg Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Drop"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Broken Full Body",
-        "workouts":[
-            {
-                "id": 0,
-                "name": "Day 1",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Bench Press",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Weighted Pullup",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Tri-Lateral Raise",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Romanian Deadlift",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Tricep Rope Pushdown",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Incline Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                    
-                ]
-            },
-            
-            {
-                "id": 1,
-                "name": "Day 2",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Barbell Squat",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Military Press",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Chest Supported Row",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Incline DB Press",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "EZ Bar Skullcrusher",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Barbell Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "Day 3",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Chest Fly",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Cable Pull Through",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Cable Lateral Raise",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Lying Leg Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Weighted Dip",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Hammer Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name": "Day 4",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Bench Press",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Weighted Pullup",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Tri-Lateral Raise",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Romanian Deadlift",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Tricep Rope Pushdown",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Incline Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                    
-                ]
-            },
-            {
-                "id": 4,
-                "name": "Day 5",
-                "exercises":[
-                    {
-                        "id": 0,
-                        "name": "Barbell Squat",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 1,
-                        "name": "Military Press",
-                        "reps": 7,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Chest Supported Row",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 3,
-                        "name": "Incline DB Press",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 4,
-                        "name": "EZ Bar Skullcrusher",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    },
-                    {
-                        "id": 5,
-                        "name": "Barbell Curl",
-                        "reps": 12,
-                        "sets": 3,
-                        "setType": "Normal"
-                    }
-                ]
-            }
-            
-        ]
-    }
+[{
+    "id": 0,
+    "name": "Broken PPL",
+    "workouts":[
+        {
+            "id": 0,
+            "name": "Push A",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Bench Press",
+                    "reps": 6,
+                    "sets": 5,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 1,
+                    "name": "Incline DB Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Close Grip Bench Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Weighted Dip",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 4,
+                    "name": "Cable OH Extension",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+            ]
+        },  
+        {
+            "id": 1,
+            "name": "Pull A",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "One Arm Lat Pulldown",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Chest Supported Row",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "DB Pullover",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Cable Incline Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "EZ Bar Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Drop"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Shoulders & Legs A",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Seated Military Press",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Cable Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "DB Reverse Lunge",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Leg Extension",
+                    "reps": 12,
+                    "sets": 5,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 4,
+                    "name": "Romanian Deadlift",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Seated Leg Curl",
+                    "reps": 12,
+                    "sets": 5,
+                    "setType": "Drop"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Push B",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Bench Press",
+                    "reps": 6,
+                    "sets": 5,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 1,
+                    "name": "Incline DB Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Cable Fly",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Tricep Rope Pushdown",
+                    "reps": 12,
+                    "sets": 5,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 4,
+                    "name": "DB Skullcrusher",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pull B",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Weighted Pullup",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "One Arm Cable Row",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Cable Pull Through",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 3,
+                    "name": "Incline Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "EZ Bar Cable Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Drop"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Shoulders & Legs B",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Stanging Military Press",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "DB Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Bulgarian Split Squat",
+                    "reps": 6,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Leg Extension",
+                    "reps": 12,
+                    "sets": 5,
+                    "setType": "Drop"
+                },
+                {
+                    "id": 4,
+                    "name": "Romanian Deadlift",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Seated Leg Curl",
+                    "reps": 12,
+                    "sets": 5,
+                    "setType": "Drop"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": 1,
+    "name": "Broken Full Body",
+    "workouts":[
+        {
+            "id": 0,
+            "name": "Day 1",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Bench Press",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Weighted Pullup",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Tri-Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Romanian Deadlift",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "Tricep Rope Pushdown",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Incline Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+                
+            ]
+        },
+        
+        {
+            "id": 1,
+            "name": "Day 2",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Barbell Squat",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Military Press",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Chest Supported Row",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Incline DB Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "EZ Bar Skullcrusher",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Barbell Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Day 3",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Chest Fly",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Cable Pull Through",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Cable Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Lying Leg Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "Weighted Dip",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Hammer Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Day 4",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Bench Press",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Weighted Pullup",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Tri-Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Romanian Deadlift",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "Tricep Rope Pushdown",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Incline Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+                
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Day 5",
+            "exercises":[
+                {
+                    "id": 0,
+                    "name": "Barbell Squat",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 1,
+                    "name": "Military Press",
+                    "reps": 7,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 2,
+                    "name": "Chest Supported Row",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 3,
+                    "name": "Incline DB Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 4,
+                    "name": "EZ Bar Skullcrusher",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Barbell Curl",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                }
+            ]
+        }
+        
+    ]
+}
 ]
 
 
