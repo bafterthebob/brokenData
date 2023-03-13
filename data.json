@@ -139,14 +139,14 @@
             "exercises":[
                 {
                     "id": 0,
-                    "name": "Incline Bench Press",
+                    "name": "Bench Press",
                     "reps": 6,
                     "sets": 5,
                     "setType": "Drop"
                 },
                 {
                     "id": 1,
-                    "name": "DB Bench Press",
+                    "name": "Incline DB Press",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
