@@ -289,7 +289,7 @@
                 },
                 {
                     "id": 2,
-                    "name": "Tri-Lateral Raise",
+                    "name": "Lateral Raise",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
@@ -394,20 +394,27 @@
                 },
                 {
                     "id": 3,
-                    "name": "Lying Leg Curl",
+                    "name": "Leg Extention",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
                 },
                 {
                     "id": 4,
-                    "name": "Weighted Dip",
+                    "name": "Seated Leg Curl",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
                 },
                 {
                     "id": 5,
+                    "name": "Weighted Dip",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 6,
                     "name": "Hammer Curl",
                     "reps": 12,
                     "sets": 3,
