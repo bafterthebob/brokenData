@@ -9,7 +9,7 @@
             "exercises":[
                 {
                     "id": 0,
-                    "name": "DB Bench Press",
+                    "name": "Bench Press",
                     "reps": 6,
                     "sets": 3,
                     "setType": "Normal"
