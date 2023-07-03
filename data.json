@@ -9,10 +9,10 @@
             "exercises":[
                 {
                     "id": 0,
-                    "name": "Bench Press",
+                    "name": "DB Bench Press",
                     "reps": 6,
-                    "sets": 5,
-                    "setType": "Drop"
+                    "sets": 3,
+                    "setType": "Normal"
                 },
                 {
                     "id": 1,
@@ -23,21 +23,28 @@
                 },
                 {
                     "id": 2,
-                    "name": "Close Grip Bench Press",
+                    "name": "Seated DB Military Press",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
                 },
                 {
                     "id": 3,
-                    "name": "Weighted Dip",
+                    "name": "Cable Fly",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Drop"
                 },
                 {
                     "id": 4,
-                    "name": "Cable OH Extension",
+                    "name": "Cable Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "setType": "Normal"
+                },
+                {
+                    "id": 5,
+                    "name": "Cable Tricep Pushdown",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
