@@ -57,21 +57,21 @@
             "exercises":[
                 {
                     "id": 0,
-                    "name": "One Arm Lat Pulldown",
+                    "name": "Pullup",
                     "reps": 6,
                     "sets": 3,
                     "setType": "Normal"
                 },
                 {
                     "id": 1,
-                    "name": "Chest Supported Row",
+                    "name": "Seated Cable Row",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
                 },
                 {
                     "id": 2,
-                    "name": "DB Pullover",
+                    "name": "Cable Pullover",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Normal"
