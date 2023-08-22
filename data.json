@@ -17,7 +17,7 @@
                 {
                     "id": 1,
                     "name": "Incline DB Press",
-                    "reps": 12,
+                    "reps": 6,
                     "sets": 3,
                     "setType": "Normal"
                 },
@@ -58,7 +58,7 @@
                 {
                     "id": 1,
                     "name": "Chest Supported Row",
-                    "reps": 12,
+                    "reps": 6,
                     "sets": 3,
                     "setType": "Normal"
                 },
@@ -78,7 +78,7 @@
                 },
                 {
                     "id": 4,
-                    "name": "DB Curl",
+                    "name": "Barbell Curl",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Drop"
@@ -167,7 +167,7 @@
                 },
                 {
                     "id": 4,
-                    "name": "DB Curl",
+                    "name": "Barbell Curl",
                     "reps": 12,
                     "sets": 3,
                     "setType": "Drop"
